@@ -1,0 +1,20 @@
+k1_p = 1.2e-7
+k2_p = -1.2e-14
+k1=-9.57308e-8
+k2=1.94242e-14
+center=208.5,587.5
+undistorted energy = 620.502
+
+k1_p = 1e-7
+k2_p = -1e-14
+k1=-9.14944e-8
+k2=2.15511e-14
+center=207.5,573.5
+undistorted energy = 156.648
+
+k1_p = 0.7e-7
+k2_p = -0.7e-14
+k1=-6.05296e-8
+k2=8.74556e-15
+center=208.5,583.5
+undistorted energy = 96.597
